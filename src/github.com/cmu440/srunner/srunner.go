@@ -2,10 +2,10 @@ package main
 
 import (
     "fmt"
-    "github.com/cmu440/p0"
+    "../p0"
 )
 
-const defaultPort = 9999
+const defaultPort = 9998
 
 func main() {
     // Initialize the server.

@@ -15,5 +15,6 @@ const (
 // read and print out the server's response to standard output. Whether or
 // not you add any code to this file will not affect your grade.
 func main() {
+
     fmt.Println("Not implemented.")
 }
